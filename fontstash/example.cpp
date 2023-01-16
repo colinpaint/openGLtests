@@ -9,7 +9,7 @@
 //#define FONS_USE_FREETYPE
 #include "fontstash.h"
 
-#include "../include/GLFW/glfw3.h"
+#include "../../glfw/include/GLFW/glfw3.h"
 
 #define GLFONTSTASH_IMPLEMENTATION
 #include "glfontstash.h"

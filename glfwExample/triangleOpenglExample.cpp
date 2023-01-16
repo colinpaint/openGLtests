@@ -35,7 +35,7 @@
 #include "glad/gl.h"
 
 #define GLFW_INCLUDE_NONE
-#include "../include/GLFW/glfw3.h"
+#include "../../glfw/include/GLFW/glfw3.h"
 
 #pragma comment(lib,"glfw3.lib")
 //}}}
