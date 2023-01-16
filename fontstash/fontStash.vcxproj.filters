@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="h">
+      <UniqueIdentifier>{06da3e02-8b2c-4e4c-ba84-e2c6b506a94f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="fontstash.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_truetype.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="gl3corefontstash.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="glfontstash.h">
+      <Filter>h</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="example.cpp" />
+  </ItemGroup>
+</Project>
